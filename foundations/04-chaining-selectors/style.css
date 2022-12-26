@@ -1,0 +1,11 @@
+/*styles.css*/
+
+.avatar.proportioned{ /*Chain Selector to change specific styles*/
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted{
+    width: 200px;
+    height: 400px;
+}

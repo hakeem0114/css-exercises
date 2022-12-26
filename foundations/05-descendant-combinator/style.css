@@ -1,0 +1,8 @@
+/*style.css*/
+
+.container .text{ /*Only descendants of container are affected by below*/
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
