@@ -1,0 +1,18 @@
+/* style.css*/
+ 
+
+.first,
+.second{ /*Group Selector*/
+/*Chain Selector would not work since multiple things change*/
+    font-size: 28px;
+    font-family: "Helvetica" "Times New Roman", sans-serif;
+}
+
+.first{
+    background-color: black;
+    color: white;
+}
+
+.second{
+    background-color: yellow;
+}
